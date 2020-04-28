@@ -7,6 +7,9 @@ Mask Detection in Real-time with 99% Accuracy
 
 [![Watch the video](https://img.youtube.com/vi/ErVbWTY_Rz4/maxresdefault.jpg)](https://youtu.be/ErVbWTY_Rz4)
 
+[<img src="https://img.youtube.com/vi/ErVbWTY_Rz4/maxresdefault.jpg" width="50%">](https://youtu.be/ErVbWTY_Rz4)
+
+
 
 
 
