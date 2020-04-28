@@ -6,7 +6,7 @@ Mask Detection in Real-time with 99% Accuracy
 <video>https://www.youtube.com/watch?v=ErVbWTY_Rz4</video>
 
 # Linkedin Post 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6659385852080324608" height="791" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+https://www.linkedin.com/posts/kushal-dulani-28145a189_artificialintelligence-ai-covid19-activity-6659385898809073664-mEB7
 
 # After Lot's of request i'm making this as an open source , if i found this used in monitized by any type , all the legal action will done by me
 
