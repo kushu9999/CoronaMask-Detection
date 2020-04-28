@@ -5,7 +5,7 @@ Mask Detection in Real-time with 99% Accuracy
 
 <video>https://www.youtube.com/watch?v=ErVbWTY_Rz4</video>
 
-### i can't upload files on github that's why i'm sharing my drive link
+### i can't upload files on github because of memory limit that's why i'm sharing my drive link
 https://drive.google.com/drive/folders/1mzJPZb1R5ogtT9nC_TL0MY2VGTcly4Nz
 
 
@@ -14,6 +14,7 @@ https://drive.google.com/drive/folders/1mzJPZb1R5ogtT9nC_TL0MY2VGTcly4Nz
 ## if you are using anaconda then create new environment for easy of use
 
 1)conda create --name mask
+
 2)conda activate mask
 
 then install requirments
