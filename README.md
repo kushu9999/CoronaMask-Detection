@@ -86,7 +86,7 @@ pip/conda install  tensorflow==1.15 <-- "Note i used 1.15 version for cpu"
 
 (step-7) open your terminal goto models/research/object_detection and run python run.py
 
-(step-8) if you want to use your own video then change videofile in run.py at line no 89 and you want to use your ip/rtsp camera chnage http/rtsp link at line no 89 and comment line no 88
+(step-8) if you want to use your own video then change videofile in run.py at line no 89 and you want to use your ip/rtsp camera chnage http/rtsp link at line no 90 and comment line no 89
 
 # (optional) 
 if you want to export tflite graph and you can use this command
