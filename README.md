@@ -1,6 +1,15 @@
 # CoronaMask-Detection
 Mask Detection in Real-time with 99% Accuracy
 
+
+
+
+
+
+
+
+# How to Use
+
 ## if you are using anaconda then create new environment for easy of use
 
 1)conda create --name mask
@@ -12,13 +21,21 @@ then install requirments
 "Requirments"
 
 pip install  opencv-python
+
 pip install  opencv-contrib-python
+
 pip install  Cython
+
 pip install  contextlib2
+
 pip install  pillow
+
 pip install  lxml
+
 pip/conda install  jupyter
+
 pip/conda install  matplotlib
+
 pip/conda install  tensorflow-gpu==1.15 <-- "Note i used 1.15 version for cuda enable gpu"
 
 ### if you don't have Nvidia Graphics which compatiblity >5.0 or AMD Graphics
