@@ -14,6 +14,8 @@ https://www.linkedin.com/posts/kushal-dulani-28145a189_artificialintelligence-ai
 
 #### Please Give Star to My Repository For My Work and I will upload all industrial/Real-Life projects for you, Thank You
 
+#### Subscribe My YouTube Channel - AI Developer Kushal and Follow me on Instagram @ai.developer_kushal , After 1000 Subscriber and Followers I'll make tutorial videos from scratch in English/Hindi for lot's of project and it'll be absolutely FREE, hurry up!
+
 ### i can't upload files on github because of memory limit that's why i'm sharing my drive link
 https://drive.google.com/drive/folders/1mzJPZb1R5ogtT9nC_TL0MY2VGTcly4Nz
 
