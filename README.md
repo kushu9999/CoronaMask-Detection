@@ -1,7 +1,11 @@
 # CoronaMask-Detection
 Mask Detection in Real-time with 99% Accuracy
 
+# Demo Video
 
+<video>https://www.youtube.com/watch?v=ErVbWTY_Rz4</video>
+
+[![Watch the video](https://img.youtube.com/vi/ErVbWTY_Rz4/maxresdefault.jpg)](https://youtu.be/ErVbWTY_Rz4)
 
 
 
