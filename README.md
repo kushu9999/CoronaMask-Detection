@@ -5,6 +5,8 @@ Mask Detection in Real-time with 99% Accuracy
 
 <video>https://www.youtube.com/watch?v=ErVbWTY_Rz4</video>
 
+# After Lot's of request i'm making this as an open source , if i found this used in monitized any type , all the legal action will done by me
+
 ### i can't upload files on github because of memory limit that's why i'm sharing my drive link
 https://drive.google.com/drive/folders/1mzJPZb1R5ogtT9nC_TL0MY2VGTcly4Nz
 
