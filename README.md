@@ -10,6 +10,10 @@ https://www.linkedin.com/posts/kushal-dulani-28145a189_artificialintelligence-ai
 
 # After Lot's of request i'm making this as an open source , if i found this used in monitized by any type , all the legal action will done by me
 
+#### I will publish blog on it that How to make these type of object detection from Scratch and also share labeled images
+
+#### Please Give Star to My Repository For My Work and I will upload all industrial/Real-Life projects for you, Thank You
+
 ### i can't upload files on github because of memory limit that's why i'm sharing my drive link
 https://drive.google.com/drive/folders/1mzJPZb1R5ogtT9nC_TL0MY2VGTcly4Nz
 
@@ -70,11 +74,13 @@ pip/conda install  tensorflow==1.15 <-- "Note i used 1.15 version for cpu"
 
 (step-2) Goto models/research/object_detection and change protos folder with my protos folder then run in terminal " ./bin/protoc object_detection/protos/*.proto --python_out=. "  <-- without inverted comma
 
-(step-3) Goto models/research and run command python setup.py build then run python setup.py install
+(step-3) Goto models/research and run command "python setup.py" build then run "python setup.py install"  <-- without inverted comma
+
 
 (step-4) Goto models/research/slim change file name BUILD to BUILDD
 
-(step-5) Goto models/research/slim and run command python setup.py build then run python setup.py install
+(step-5) Goto models/research/slim and run command "python setup.py build" then run "python setup.py install"  <-- without inverted comma
+
 
 (step-6) Goto models/research/object_detection and paste inference_graph,training,run.py,train.record,test.record and finalmask.mp4
 
