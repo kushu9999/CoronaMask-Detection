@@ -5,14 +5,8 @@ Mask Detection in Real-time with 99% Accuracy
 
 <video>https://www.youtube.com/watch?v=ErVbWTY_Rz4</video>
 
-[![Watch the video](https://img.youtube.com/vi/ErVbWTY_Rz4/maxresdefault.jpg)](https://youtu.be/ErVbWTY_Rz4)
-
-[<img src="https://img.youtube.com/vi/ErVbWTY_Rz4/maxresdefault.jpg" width="50%">](https://youtu.be/ErVbWTY_Rz4)
-
-
-
-
-
+### i can't upload files on github that's why i'm sharing my drive link
+https://drive.google.com/drive/folders/1mzJPZb1R5ogtT9nC_TL0MY2VGTcly4Nz
 
 
 # How to Use
