@@ -30,13 +30,13 @@ then install requirments
 
 # Prerequisites
 
-opencv
-matplotlib
-Cython
-contextlib2
-pillow
-lxml
-tensorflow
+opencv,
+matplotlib,
+Cython,
+contextlib2,
+pillow,
+lxml,
+tensorflow,
 jupyter notebook 
 
 # Installing
