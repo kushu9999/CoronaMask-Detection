@@ -5,10 +5,13 @@ Mask Detection in Real-time with 99% Accuracy
 
 <video>https://www.youtube.com/watch?v=ErVbWTY_Rz4</video>
 
-# After Lot's of request i'm making this as an open source , if i found this used in monitized any type , all the legal action will done by me
+# After Lot's of request i'm making this as an open source , if i found this used in monitized by any type , all the legal action will done by me
 
 ### i can't upload files on github because of memory limit that's why i'm sharing my drive link
 https://drive.google.com/drive/folders/1mzJPZb1R5ogtT9nC_TL0MY2VGTcly4Nz
+
+# Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 
 # How to Use
@@ -22,7 +25,18 @@ https://drive.google.com/drive/folders/1mzJPZb1R5ogtT9nC_TL0MY2VGTcly4Nz
 then install requirments
 
 
-"Requirments"
+# Prerequisites
+
+opencv
+matplotlib
+Cython
+contextlib2
+pillow
+lxml
+tensorflow
+jupyter notebook 
+
+# Installing
 
 pip install  opencv-python
 
@@ -73,3 +87,7 @@ Goto models/research/object_detection and run
 python export_tflite_ssd_graph.py --input_type image_tensor --pipeline_config_path training/ssd_mobilenet_v2_coco.config --trained_checkpoint_prefix training/model.ckpt-43979 --output_directory inference_graph2
 
 now you can check in models/research/object_detection/inference_graph2 in this folder you can fild tflite_graph.pb and tflite_graph.pbtxt files , you can use in micro-computers like rasberrypie/nvidia jetson nano etc 
+
+
+# Author
+#### Kushal Dulani 
