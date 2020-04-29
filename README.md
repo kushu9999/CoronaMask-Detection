@@ -17,7 +17,7 @@ https://www.linkedin.com/posts/kushal-dulani-28145a189_artificialintelligence-ai
 #### Subscribe My YouTube Channel - AI Developer Kushal and Follow me on Instagram @ai.developer_kushal , After 1000 Subscriber and Followers I'll make tutorial videos from scratch in English/Hindi for lot's of project and it'll be absolutely FREE, hurry up!
 
 ### i can't upload files on github because of memory limit that's why i'm sharing my drive link
-https://drive.google.com/drive/folders/1mzJPZb1R5ogtT9nC_TL0MY2VGTcly4Nz
+### drive Link uploading soon 
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
